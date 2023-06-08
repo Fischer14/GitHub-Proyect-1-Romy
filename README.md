@@ -35,7 +35,7 @@
 
 ## Acerca del Proyecto
 
-- En este proyecto, vas a construir y desplegar tu primer sitio web totalmente responsivo utilizando las tecnologías que has aprendido hasta ahora: HTML, CSS y JavaScript.
+- En este proyecto, voy a construir y desplegar el primer sitio web totalmente responsivo utilizando las tecnologías que he aprendido hasta ahora: HTML, CSS y JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
