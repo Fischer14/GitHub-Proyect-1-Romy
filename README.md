@@ -44,7 +44,7 @@
 - HTML5 - CSS - JAVASCRIPT
 - IDE: Visual Studio Code
 - Control de versiones: GitHub Inc.
-- Servicios Cloud: Vercel & Cloudinary
+- Despliegue en Netlify
 - Figma & Postman
 
 
