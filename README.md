@@ -21,7 +21,6 @@
     <li>
     <a href="#roadmap">Roadmap</a>
      <ul>
-     <li></li>
         <li><a href="#day-one">Jueves 08, Junio 2023</a></li>
         <li><a href="#day-two">Viernes 09, Junio 2023</a></li>
         <li><a href="#day-three">Sábado 10, Junio 2023</a></li>
