@@ -159,7 +159,7 @@ Romy Fischer, 27
 Soy licenciada en Marketing y entusiasta del comercio digital. Mi objetivo es combinar mi pasión por la tecnología con mi capacidad para crear experiencias en línea excepcionales que impacten positivamente en los usuarios y las empresas.
 La sección "sobre mí" en un archivo README es una sección que proporciona información sobre el desarrollador o equipo detrás del proyecto.
 
-LinkedIn - Romy Fischer - [https://www.linkedin.com/in/romyfischer/] - rfischerpaez@gmail.com 
+LinkedIn - [https://www.linkedin.com/in/romyfischer/] - rfischerpaez@gmail.com 
 
 Project Link: [https://github.com/Fischer14/GitHub-Proyect-1-Romy]
 
@@ -171,7 +171,7 @@ Presentation Link: [Insert here your presentation link](insert-link-here)
 
 <!-- ACKNOWLEDGMENTS -->
 
-## agradecimientos
+## Agradecimientos
 
 La sección "agradecimientos" en un archivo README es una sección que proporciona reconocimiento a las personas o instituciones que ayudaron en el desarrollo del proyecto.
 
