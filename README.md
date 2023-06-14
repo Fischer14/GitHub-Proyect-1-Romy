@@ -108,8 +108,8 @@ Maquetado HTML Home, Project y Contact Us
 
 Maquetado HTML Home, Project y Contact Us + Diseño CSS (Móvil)
 
-- [x] Tarea no completada
-- [ ] Tarea Completada
+- [ ] Tarea no completada
+- [x] Tarea Completada
 
 #### Day Four
 
@@ -117,8 +117,8 @@ Maquetado HTML Home, Project y Contact Us + Diseño CSS (Móvil)
 
 Diseño CSS (Móvil) + CSS (Desktop)
 
-- [x] Tarea no completada
-- [ ] Tarea Completada
+- [ ] Tarea no completada
+- [x] Tarea Completada
 
 #### Day Five
 
@@ -173,43 +173,21 @@ Presentation Link: [Insert here your presentation link](insert-link-here)
 
 ## Agradecimientos
 
-La sección "agradecimientos" en un archivo README es una sección que proporciona reconocimiento a las personas o instituciones que ayudaron en el desarrollo del proyecto.
+En primer lugar, me gustaría agradecer al gran equipo de Ironhack que nos ha brindado la oportunidad de participar en un Bootcamp muy completo que nos permite desarrollar nuestar habilidades como front-end developers.
 
-En esta sección se puede incluir información como:
+Además, quiero expresar mi gatitud prinsipalmente para Diogo Zito, nuestro instructor durante este bootcamp. Su profesionalidad y compromiso han sido ejemplares y han motivado que quiera hacer grandes proyectos y seguir aprendiendo constantemente. 
 
-- Agradecimientos específicos a personas que ayudaron en el desarrollo del proyecto.
-- Agradecimientos a instituciones o organizaciones que proporcionaron apoyo financiero o recursos.
-- Enlaces a proyectos o recursos relacionados que fueron útiles para el desarrollo del proyecto.
+Por último, quiero agradecer a mis compañeros, ya que, he podido aprender mucho de sus proyectos y de como lo han afrontado en cada caso. Aprender de ellos me ha premitido ampliar conocimeinto y evitar algunos errores. 
 
-En resumen, la sección "agradecimientos" es una excelente manera de agradecer a las personas o instituciones que ayudaron en el desarrollo del proyecto. Esta sección también puede ser útil para dar crédito a los recursos o proyectos relacionados que fueron útiles durante el desarrollo.
-
-- [Icon Libraries](insert-link-here)
-- [Google Font Libraries](insert-link-here)
+- [Icon Libraries](https://icons.getbootstrap.com/)
+- [Google Font Libraries](https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:wght@100;300;400;500&display=swap)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Desafío Técnico
 
-La sección "desafío técnico" aunque no es convencional en un proyecto profesional, en nuestro curso dependemos de esta sección en un archivo README para proporcionar información sobre los desafíos técnicos que se enfrentaron durante el desarrollo del proyecto.
-
-En esta sección se puede incluir información como:
-
-- Problemas técnicos específicos que se encontraron durante el desarrollo del proyecto.
-- Soluciones implementadas para superar estos desafíos.
-- Aspectos del proyecto que aún son un desafío o que requieren mejora continua.
-- Recomendaciones para futuros desarrolladores que trabajen en el proyecto.
-
-En resumen, la sección "desafío técnico" es una excelente manera de brindar a los usuarios y contribuidores una idea de los desafíos técnicos que se enfrentaron durante el desarrollo del proyecto, y cómo se abordaron. Esta sección también puede ser útil para futuros desarrolladores que trabajen en el proyecto, ya que les brinda información valiosa sobre problemas potenciales y soluciones para superarlos.
+TBC
 
 ## Grande Error
 
-La sección "grande error" en un archivo README es una sección opcional que proporciona información sobre los errores importantes cometidos durante el desarrollo del proyecto.
-
-En esta sección se puede incluir información como:
-
-- Descripción detallada del error cometido.
-- Consecuencias del error.
-- Soluciones implementadas para corregir el error.
-- Lecciones aprendidas y recomendaciones para evitar errores similares en el futuro.
-
-En resumen, la sección "grande error" es una forma de ser transparente sobre los errores cometidos durante el desarrollo del proyecto. También puede ser útil para otros desarrolladores que trabajen en el proyecto, ya que les brinda información valiosa sobre problemas potenciales y cómo se abordaron.
+TBC

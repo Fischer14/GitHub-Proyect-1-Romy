@@ -10,104 +10,139 @@
 <body>
     
     <!-- NAV SECTION -->
-    <div id="navbar"> 
+    <div id="navbar">
         <nav>
-            <div class="logo">
-                <a href="/index.html">
-                    <img src="/resources/images/logos/circle.svg" alt="Circle Agency Logo">
-                </a>
-            </div>
-            <div class="nav-links">
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="./project.html">Project Page - Simple</a></li>
-                    <li><a href="#"></a>Projects</li>
-                    <li><a href="#"></a>Services</li>
-                    <li><a href="#"></a>About</li>
-                </ul>
-            </div>
-            <div class="btn-contact">
-                <a class="btn-blue" href="./contact-us.html"><button>Contact Us</button></a>
-            </div>
-            <input type="checkbox">
-            <label  for="menu-toggle">
-                <div></div>
-            </label>
-            <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./project.html">Project Page - Simple</a></li>
-                <li><a href="#"></a>Proyects</li>
-                <li><a href="#"></a>Services</li>
-                <li><a href="#"></a>About</li>
-            </ul>
+          <div class="logo">
+            <a href="./index.html">
+              <img
+                src="./resources/images/logos/circle.svg"
+                alt="Circle Agency Logo"
+              />
+            </a>
+          </div>
+          <div class="navigation">
+            <a href="./index.html">Home</a>
+            <a href="./project.html">Project Page - Simple</a>
+            <a class="#projects">Projects</a>
+            <a class="#services">Services</a>
+            <a href="#">About</a>
+          </div>
+          <div id="top-contact-btn" class="btn-contact">
+            <a class="btn-contact" href="./contact-us.html">Contact Us</a>
+          </div>
+          <input id="menu-toggle" type="checkbox" />
+          <label class="menu-button-container" for="menu-toggle">
+            <div class="menu-button"></div>
+          </label>
+          <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="./project.html" >Project Page - Simple</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#">About</a></li>
+          </ul>
         </nav>
-    </div>
+      </div>
 
     <!-- PROJECT POST -->
     <main>
-        <section class="project-main">
-            <div class="project-main">
-                <h1>Simplify</h1>
-                <div>
-                    <h2>UI Design & App Development</h2>
-                    <h3>Completed on 2/2/23</h3>
-                </div>
-                <div>
-                    <img src="./resources/images/projects-section/1.jpg" alt="Abstract image">
-                </div>
-                <div>
-                    <p> Simplify is lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat faucibus sem, id vulputate justo ornare non. Nullam et vehicula sem. Pellentesque bibendum massa non nisl posuere cursus. Aliquam ac eros pretium neque consequat facilisis. Ut sit amet justo varius ex ultrices fringilla. Sed vel turpis fringilla ante gravida vestibulum. Etiam a sollicitudin leo. Nunc metus lectus, lacinia ut arcu quis, pretium congue lacus.</p> 
-                    <p>Aliquam blandit varius metus, in mattis orci convallis sit amet. Fusce et sem ac velit placerat ultrices in id dolor. Sed eget auctor metus. Sed suscipit fringilla lectus, a maximus justo bibendum a. Donec et pellentesque nisl, vitae tempus lorem. Sed efficitur cursus rhoncus. Duis placerat nisi quis mi tincidunt, sit amet tincidunt urna convallis. Nam et sagittis felis. Pellentesque placerat orci sodales nisi convallis ultrices. Nunc posuere neque eu mi imperdiet ullamcorper. Praesent tempor convallis rutrum. Vestibulum dignissim pellentesque eros in placerat. Etiam at nisi quis quam sollicitudin vehicula sit amet vel mi.</p>
-                </div>
+        <section id="project-main">
+            <div class="txt-title">
+              <h1>Simplifyy</h1>
+              <div class="subtitle">
+                <h2>UI Design & App Development</h2>
+                <h3>Completed on 20/06/2023</h3>
+              </div>
+              <div class="img-container">
+                <img src="./resources/images/projects-section/1.jpg" alt="" />
+              </div>
+              <div class="txt-container">
+                <p>
+                  Simplify is lorem ipsum dolor sit amet, consectetur adipiscing
+                  elit. Sed feugiat faucibus sem, id vulputate justo ornare non.
+                  Nullam et vehicula sem. Pellentesque bibendum massa non nisl
+                  posuere cursus. Aliquam ac eros pretium neque consequat facilisis.
+                  Ut sit amet justo varius ex ultrices fringilla. Sed vel turpis
+                  fringilla ante gravida vestibulum. Etiam a sollicitudin leo. Nunc
+                  metus lectus, lacinia ut arcu quis, pretium congue lacus.
+                </p>
+                <p>
+                  Aliquam blandit varius metus, in mattis orci convallis sit amet.
+                  Fusce et sem ac velit placerat ultrices in id dolor. Sed eget
+                  auctor metus. Sed suscipit fringilla lectus, a maximus justo
+                  bibendum a. Donec et pellentesque nisl, vitae tempus lorem. Sed
+                  efficitur cursus rhoncus. Duis placerat nisi quis mi tincidunt,
+                  sit amet tincidunt urna convallis. Nam et sagittis felis.
+                  Pellentesque placerat orci sodales nisi convallis ultrices. Nunc
+                  posuere neque eu mi imperdiet ullamcorper. Praesent tempor
+                  convallis rutrum. Vestibulum dignissim pellentesque eros in
+                  placerat. Etiam at nisi quis quam sollicitudin vehicula sit amet
+                  vel mi.
+                </p>
+              </div>
             </div>
-        </section>
+          </section>
 
     <!-- OTHER PROJECTS SECTION -->
         <section id="projects">
             <div class="title">
                 <h2>Other Projects</h2>
             </div>
-            <div class="projects-container"></div>
-        </section>
+            <div class="projects-container"><div class="project">
+                <img src="./resources/images/projects-section/1.jpg" alt="" />
+                <h3>Simplify</h3>
+                <p>UI Design & App Development</p>
+                <a href="#">Learn More</a>
+              </div>
+              <div class="project">
+                <img src="./resources/images/projects-section/2.jpg" alt="" />
+                <h3>Dashcoin</h3>
+                <p>Web Development</p>
+                <a href="#">Learn More</a>
+              </div>
+              <div class="project">
+                <img src="./resources/images/projects-section/3.jpg" alt="" />
+                <h3>Vectorify</h3>
+                <p>User Experience Design</p>
+                <a href="#">Learn More</a>
+              </div>
+            </div>
+          </section>
 
     <!-- SECTION HELP -->
-        <section id="help">
-            <div>
-                <h2>Do you have any questions?</h2>
-                <p>Let us help you!</p>
-            </div>
-            <form>
-                <input id="email-input" type="text" placeholder="Enter your email" required/>
-                <a href="#"><button>Subscribe</button></a>
-            </form>
-        </section>
+    <section id="help">
+        <div class="title-subscribe">
+            <h2>Do you have any questions?</h2>
+        </div>
+            <p>Let us help you!</p>
+        <div class="email-subscribe">
+          <input id="email-input" type="text" placeholder="Enter your email" />
+          <a id="email-sub-btn" href="#">Subscribe</a>
+        </div>
+    </section>
 
     <!-- FOOTER -->
         <footer>
-            <div>
-                <div>
-                    <img src="./resources/images/logos/circle.svg" alt="Loco Circle">
+            <div class="bottom-logo">
+                <div class="bottom-img-logo">
+                <img
+                    src="./resources/images/logos/circle.svg"
+                    alt="Circle Agency Logo"
+                />
                 </div>
-                <div>
-                    <p>2972 Westheimer Rd. Santa Ana, <br> Illinois 85486</p>
+                <div class="address">
+                <p>2972 Westheimer Rd. Santa Ana,<br/>Illinois 85486</p>
                 </div>
             </div>
-            <div>
-                <a href="#">Team</a>
-                <a href="#">Services</a>
-                <a href="#">About Us</a>
-                <a href="#">Press</a>
-                <a href="#">Projects</a>
-                <a href="#">Privacy Policy</a>
+            <div class="grid-links">
+                <a href="#"><div>Team</div></a>
+                <a href="#"><div>Services</div></a>
+                <a href="#"><div>About Us</div></a>
+                <a href="#"><div>Press</div></a>
+                <a href="#"><div>Projects</div></a>
+                <a href="#"><div>Privacy Policy</div></a>
             </div>
         </footer>
-    </main>
-
-    <!-- SCROLLTOP BUTTON -->
-    <div>
-        <h3>Scroll to top</h3>
-    </div>
-
     </main>
 </body>
 </html>
