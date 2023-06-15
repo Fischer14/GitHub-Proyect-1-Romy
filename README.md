@@ -141,10 +141,10 @@ Lógica JS - Validación
 
 ###### Viernes 16, Junio 2023
 
-Lógica JS + Actualizar README.md 
+Loader + Actualizar README.md 
 
-- [x] Tarea no completada
-- [ ] Tarea Completada
+- [ ] Tarea no completada
+- [x] Tarea Completada
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,8 +183,8 @@ Por último, quiero agradecer a mis compañeros, ya que, he podido aprender much
 
 ## Desafío Técnico
 
-TBC
+El desarrollo de esta página web estuvo enveulto en varios desafíos. Para empezar, uno de los mayores desafíos fue lograr un diseño responsivo. Entiendí la importancia de empezar con el diseño móvil ya que permite empezar más fácil. Otro gran reto que se presentó fue la lógca de JavaScript, para lograr usar el metodo fetch() para realizar peticiones de red y obtener recursos de forma asíncrona. Además de implementar la validación de campos en el formulario. 
 
 ## Grande Error
 
-TBC
+Mi mayor error al enfrentarme a este proyecto fue orgnizar la organización del tiempo. No supe como abordar muchas partes del proyecto y pase más tiempo identificado como empezar que realmente escribiendo el código. Especialmente al llegar a la aplicación de JS, ya que me tomo mucho tiempo investigar y revisar toda la documentación otra vez. El mayor aprendiaje que me llevo de este proyecto es manejar mi tiempo de una mejor manera. 
