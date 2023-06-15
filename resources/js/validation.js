@@ -35,6 +35,7 @@
 // Agregar el evento de escucha al formulario
     document.getElementById("form-message").addEventListener("submit", validateForm);
 
+// ______________________________________________________________________________________________________//
 
 // Hacer que todos los campos del formulario de contacto sean obligatorios antes de poder enviarlo
 

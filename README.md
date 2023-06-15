@@ -162,9 +162,7 @@ LinkedIn - [https://www.linkedin.com/in/romyfischer/] - rfischerpaez@gmail.com
 
 Project Link: [https://github.com/Fischer14/GitHub-Proyect-1-Romy]
 
-ProjectLink Vercel: [Insert here your presentation link] (insert-link-here)
-
-Presentation Link: [Insert here your presentation link](insert-link-here)
+ProjectLink Vercel: [https://git-hub-proyect-1-romy.vercel.app/] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

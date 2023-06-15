@@ -1,4 +1,8 @@
+/* Importamos una fuente de Google Fonts llamada "Cinzel" y otra llamada "Roboto" con diferentes pesos (100, 300, 400, 500) para su uso posterior en el sitio web. */
+
 @import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:wght@100;300;400;500&display=swap");
+
+
 
 :root {
   --primary: #072ac8;
@@ -34,7 +38,42 @@ footer {
 /* ------------------------------ INDEX html ------------------------------ */
 /* ------------------------------------------------------------------------ */
 
+/* Loader */
+
+.loader-container {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: #f2f4fc;
+  transition: all 1s ease;
+  z-index: 10000;
+}
+
+.loader {
+  width: 100px;
+  height: 100px;
+  border: solid 5px #55460624;
+  border-top: solid 5px #ffd500;
+  border-radius: 50%;
+  animation: loader 3s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
 /* ------------------------------ Navbar ------------------------------ */
+
+/* Establecemos el ancho del menú en el 80% del ancho de la ventana del navegador, aplicamos el modelo de caja flex, elimanamos la decoración de subrayado de los enlaces y aplicamos una sombra al botón */
 
 nav {
   width: 80vw;
@@ -64,6 +103,7 @@ nav {
   font-size: 1.05rem;
   padding: 16px;
   text-decoration: none;
+  box-shadow: 0 2px 4px rgba(0, 0.2, 0, 0.2);
 }
 
 .link {
@@ -79,6 +119,7 @@ nav {
 }
 
 /* ------------------------------ Header ------------------------------ */
+
 
 #main {
   width: 80vw;
@@ -208,6 +249,7 @@ nav {
 .project {
   background-color: white;
   padding-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0.2, 0, 0.2);
 }
 
 .project img {
@@ -345,6 +387,7 @@ nav {
 .service {
   background-color: white;
   padding-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0.2, 0, 0.2);
 }
 
 #service-img1 {
@@ -448,6 +491,7 @@ nav {
   padding: 25px 50px 25px 50px;
   text-decoration: none;
   margin-left: 12px;
+  box-shadow: 0 2px 4px rgba(0, 0.2, 0, 0.2);
 }
 /* ------------------------------ Footer ------------------------------ */
 
