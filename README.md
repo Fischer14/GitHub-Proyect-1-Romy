@@ -76,7 +76,6 @@ El propósito de este proyecto es dearrollar una página web para la empresa Cir
 - IDE: Visual Studio Code
 - Control de versiones: GitHub Inc.
 - Servicios Cloud: Vercel
-- Figma & Postman
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,10 +132,10 @@ Lógica JS - Fetch
 
 ###### Jueves 15, Junio 2023
 
-Lógica JS 
+Lógica JS - Validación
 
-- [x] Tarea no completada
-- [ ] Tarea Completada
+- [ ] Tarea no completada
+- [x] Tarea Completada
 
 #### Day Seven
 
