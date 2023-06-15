@@ -124,10 +124,10 @@ Diseño CSS (Móvil) + CSS (Desktop)
 
 ###### Miercoles 14, Junio 2023
 
-Lógica JS 
+Lógica JS - Fetch
 
-- [x] Tarea no completada
-- [ ] Tarea Completada
+- [ ] Tarea no completada
+- [x] Tarea Completada
 
 #### Day Six
 
