@@ -156,7 +156,6 @@ Romy Fischer, 27
 - Barcelona, España
 
 Soy licenciada en Marketing y entusiasta del comercio digital. Mi objetivo es combinar mi pasión por la tecnología con mi capacidad para crear experiencias en línea excepcionales que impacten positivamente en los usuarios y las empresas.
-La sección "sobre mí" en un archivo README es una sección que proporciona información sobre el desarrollador o equipo detrás del proyecto.
 
 LinkedIn - [https://www.linkedin.com/in/romyfischer/] - rfischerpaez@gmail.com 
 
@@ -170,11 +169,11 @@ ProjectLink Vercel: [https://git-hub-proyect-1-romy.vercel.app/]
 
 ## Agradecimientos
 
-En primer lugar, me gustaría agradecer al gran equipo de Ironhack que nos ha brindado la oportunidad de participar en un Bootcamp muy completo que nos permite desarrollar nuestar habilidades como front-end developers.
+En primer lugar, me gustaría agradecer al gran equipo de Ironhack que nos ha brindado la oportunidad de participar en un Bootcamp muy completo que nos permite desarrollar nuestra habilidades como front-end developers.
 
-Además, quiero expresar mi gatitud prinsipalmente para Diogo Zito, nuestro instructor durante este bootcamp. Su profesionalidad y compromiso han sido ejemplares y han motivado que quiera hacer grandes proyectos y seguir aprendiendo constantemente. 
+Además, quiero expresar mi gratitud principalmente para Diogo Zito, nuestro instructor durante este bootcamp. Su profesionalidad y compromiso han sido ejemplares y han motivado que quiera hacer grandes proyectos y seguir aprendiendo constantemente. 
 
-Por último, quiero agradecer a mis compañeros, ya que, he podido aprender mucho de sus proyectos y de como lo han afrontado en cada caso. Aprender de ellos me ha premitido ampliar conocimeinto y evitar algunos errores. 
+Por último, quiero agradecer a mis compañeros, ya que, he podido aprender mucho de sus proyectos y de cómo lo han afrontado en cada caso. Aprender de ellos me ha permitido ampliar conocimiento y evitar algunos errores. 
 
 - [Icon Libraries](https://icons.getbootstrap.com/)
 - [Google Font Libraries](https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:wght@100;300;400;500&display=swap)
@@ -183,8 +182,8 @@ Por último, quiero agradecer a mis compañeros, ya que, he podido aprender much
 
 ## Desafío Técnico
 
-El desarrollo de esta página web estuvo enveulto en varios desafíos. Para empezar, uno de los mayores desafíos fue lograr un diseño responsivo. Entiendí la importancia de empezar con el diseño móvil ya que permite empezar más fácil. Otro gran reto que se presentó fue la lógca de JavaScript, para lograr usar el metodo fetch() para realizar peticiones de red y obtener recursos de forma asíncrona. Además de implementar la validación de campos en el formulario. 
+El desarrollo de este sitio web estuvo rodeado de diversos desafíos. Para empezar, uno de los mayores desafíos fue lograr un diseño responsivo. Comprendo la importancia de comenzar con el diseño móvil, porque te permite comenzar más fácilmente. Otro gran desafío que se presentó fue la lógica JavaScript, para manejar el uso del método fetch() para realizar solicitudes de red y obtener recursos asíncronamente. Además de implementar la validación de campos en el formulario.
 
 ## Grande Error
 
-Mi mayor error al enfrentarme a este proyecto fue orgnizar la organización del tiempo. No supe como abordar muchas partes del proyecto y pase más tiempo identificado como empezar que realmente escribiendo el código. Especialmente al llegar a la aplicación de JS, ya que me tomo mucho tiempo investigar y revisar toda la documentación otra vez. El mayor aprendiaje que me llevo de este proyecto es manejar mi tiempo de una mejor manera. 
+Mi mayor error al enfrentarme a este proyecto fue manejar la organización del tiempo. No supe cómo abordar muchas partes del proyecto y pasé más tiempo identificado como empezar que realmente escribiendo el código. Especialmente al llegar a la aplicación de JS, ya que me tomo mucho tiempo investigar y revisar toda la documentación otra vez. El mayor aprendizaje que me llevo de este proyecto es manejar mi tiempo de una mejor manera. Y buscar más ayuda en compañeros y no intentar hacer todo sola. 
